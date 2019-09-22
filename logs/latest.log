@@ -1,0 +1,95 @@
+[02:30:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:30:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:30:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:30:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:30:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:30:42] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[02:30:42] [Server thread/INFO]: Loading properties
+[02:30:42] [Server thread/INFO]: Default game type: SURVIVAL
+[02:30:42] [Server thread/INFO]: Generating keypair
+[02:30:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:30:42] [Server thread/INFO]: Using default channel type
+[02:30:43] [Server thread/INFO]: Preparing level "world"
+[02:30:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:30:44] [Server thread/INFO]: Loaded 6 recipes
+[02:30:44] [Server thread/INFO]: Loaded 811 advancements
+[02:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:30:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:30:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:53] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[02:30:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[02:30:54] [Server thread/INFO]: Preparing spawn area: 23%
+[02:30:54] [Server thread/INFO]: Time elapsed: 9233 ms
+[02:30:54] [Server thread/INFO]: Done (11.033s)! For help, type "help"
+[02:31:01] [User Authenticator #1/INFO]: UUID of player lilkidxd is b3189770-5e3f-4e89-9338-f9ad5aab729d
+[02:31:02] [Server thread/INFO]: lilkidxd[/192.168.1.254:60818] logged in with entity id 238 at (115.34044781965551, 63.0, 11.300000011920929)
+[02:31:02] [Server thread/INFO]: lilkidxd joined the game
+[02:32:05] [User Authenticator #2/INFO]: UUID of player chromor1 is 75a9784c-cb28-411c-a1d6-a39ec5f90731
+[02:32:05] [Server thread/INFO]: chromor1[/52.119.101.4:34256] logged in with entity id 351 at (66.74077089396198, 61.12557120904675, -433.1472884265161)
+[02:32:05] [Server thread/INFO]: chromor1 joined the game
+[02:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
+[02:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[02:37:04] [Server thread/INFO]: chromor1 has made the advancement [Sweet Dreams]
+[02:37:53] [Server thread/INFO]: lilkidxd has made the advancement [Sweet Dreams]
+[02:41:56] [Server thread/INFO]: lilkidxd has made the advancement [Suit Up]
+[02:42:12] [Server thread/INFO]: chromor1 has made the advancement [Suit Up]
+[02:50:23] [Server thread/INFO]: lilkidxd has made the advancement [Isn't It Iron Pick]
+[02:51:16] [Server thread/INFO]: lilkidxd has made the advancement [A Seedy Place]
+[02:53:16] [Server thread/INFO]: Unknown command
+[02:53:16] [Server thread/INFO]: /difficult normal<--[HERE]
+[02:53:23] [Server thread/INFO]: The difficulty has been set to Normal
+[02:55:56] [Server thread/INFO]: chromor1 has made the advancement [Diamonds!]
+[03:20:14] [Server thread/INFO]: chromor1 has made the advancement [The Parrots and the Bats]
+[03:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[03:33:03] [Server thread/INFO]: lilkidxd lost connection: Disconnected
+[03:33:03] [Server thread/INFO]: lilkidxd left the game
+[03:33:06] [User Authenticator #3/INFO]: UUID of player lilkidxd is b3189770-5e3f-4e89-9338-f9ad5aab729d
+[03:33:06] [Server thread/INFO]: lilkidxd[/192.168.1.254:60899] logged in with entity id 12961 at (240.3304537437319, 80.0, 636.4044898990785)
+[03:33:06] [Server thread/INFO]: lilkidxd joined the game
+[03:36:05] [Server thread/WARN]: lilkidxd moved too quickly! -9.684802378654808,0.8232407249357578,2.4365227223157717
+[03:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[03:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[03:44:28] [Server thread/INFO]: lilkidxd lost connection: Disconnected
+[03:44:28] [Server thread/INFO]: lilkidxd left the game
+[03:44:31] [User Authenticator #4/INFO]: UUID of player lilkidxd is b3189770-5e3f-4e89-9338-f9ad5aab729d
+[03:44:31] [Server thread/INFO]: lilkidxd[/192.168.1.254:60925] logged in with entity id 17318 at (416.8003758234638, 64.0, 1124.2402335680767)
+[03:44:31] [Server thread/INFO]: lilkidxd joined the game
+[03:46:19] [Server thread/INFO]: <lilkidxd> 100 0
+[03:51:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[03:51:54] [Server thread/INFO]: chromor1 has made the advancement [Ice Bucket Challenge]
+[03:55:37] [Server thread/INFO]: lilkidxd lost connection: Disconnected
+[03:55:37] [Server thread/INFO]: lilkidxd left the game
+[03:55:39] [User Authenticator #5/INFO]: UUID of player lilkidxd is b3189770-5e3f-4e89-9338-f9ad5aab729d
+[03:55:40] [Server thread/INFO]: lilkidxd[/192.168.1.254:60943] logged in with entity id 21367 at (132.7036024154273, 73.0, 189.85005482952437)
+[03:55:40] [Server thread/INFO]: lilkidxd joined the game
+[04:04:40] [Server thread/INFO]: chromor1 lost connection: Disconnected
+[04:04:40] [Server thread/INFO]: chromor1 left the game
+[04:04:43] [Server thread/INFO]: lilkidxd lost connection: Disconnected
+[04:04:43] [Server thread/INFO]: lilkidxd left the game
+[04:04:58] [Server thread/INFO]: Stopping the server
+[04:04:58] [Server thread/INFO]: Stopping server
+[04:04:58] [Server thread/INFO]: Saving players
+[04:04:58] [Server thread/INFO]: Saving worlds
+[04:04:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:04:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:04:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:04:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
