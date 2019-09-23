@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2019-09-22 22:27:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2019-09-16 01:57:43 -0500"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2019-09-22 21:58:28 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-09-16 02:09:25 -0500"
@@ -62,6 +74,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-09-16 02:46:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-22 22:29:17 -0500"
     },
     "done": true
   },
@@ -158,6 +176,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-09-16 02:42:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-22 22:29:17 -0500"
     },
     "done": true
   },
@@ -272,6 +296,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-09-16 03:59:51 -0500",
+      "cooked_mutton": "2019-09-22 22:29:49 -0500",
+      "cooked_beef": "2019-09-22 21:47:07 -0500",
       "mutton": "2019-09-16 03:43:34 -0500",
       "dried_kelp": "2019-09-16 02:42:43 -0500"
     },
@@ -373,6 +399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-09-22 21:53:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-09-16 03:38:50 -0500"
@@ -403,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2019-09-22 22:27:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-09-16 01:54:35 -0500"
@@ -412,6 +450,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2019-09-16 03:47:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-09-22 22:32:55 -0500"
     },
     "done": true
   },
@@ -493,6 +537,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-09-16 01:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-22 22:29:17 -0500"
     },
     "done": true
   },
@@ -676,6 +726,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2019-09-22 22:27:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-09-22 22:01:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_at_least_9_dried_kelp": "2019-09-16 02:42:40 -0500"
@@ -691,6 +753,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-09-16 02:52:41 -0500",
+      "minecraft:creeper": "2019-09-22 22:32:46 -0500",
+      "minecraft:cave_spider": "2019-09-22 22:28:07 -0500",
+      "minecraft:enderman": "2019-09-22 22:32:58 -0500",
       "minecraft:zombie": "2019-09-16 02:08:43 -0500"
     },
     "done": false
@@ -722,6 +787,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2019-09-16 03:38:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-09-22 22:01:18 -0500"
     },
     "done": true
   },
@@ -836,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-09-22 22:01:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-09-16 01:54:35 -0500"
@@ -893,6 +970,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-09-16 02:42:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2019-09-22 22:27:27 -0500"
     },
     "done": true
   },
@@ -956,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-09-22 21:53:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-09-16 02:05:28 -0500"
@@ -965,6 +1054,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-09-16 02:42:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-09-22 22:26:48 -0500"
     },
     "done": true
   },
@@ -1058,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2019-09-22 22:27:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-09-16 01:54:35 -0500"
@@ -1091,6 +1192,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-09-16 02:50:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2019-09-22 22:27:27 -0500"
     },
     "done": true
   },
@@ -1372,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-09-22 22:01:20 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-09-16 02:09:25 -0500"
@@ -1414,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-22 22:29:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-09-16 02:07:26 -0500"
@@ -1429,6 +1548,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-09-16 01:59:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-09-22 22:29:17 -0500"
     },
     "done": true
   },
