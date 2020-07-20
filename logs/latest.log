@@ -1,65 +1,149 @@
-[00:04:23] [Server thread/INFO]: Jennicata lost connection: Disconnected
-[00:04:23] [Server thread/INFO]: Jennicata left the game
-[00:04:25] [User Authenticator #10/INFO]: UUID of player Jennicata is c1a9fa4a-7b85-4c43-b9e9-46b97d1624e7
-[00:04:25] [Server thread/INFO]: Jennicata joined the game
-[00:04:25] [Server thread/INFO]: Jennicata[/76.25.82.51:51894] logged in with entity id 37095 at ([world]198.9425297152615, 65.0, -304.00730822150683)
-[00:06:02] [Server thread/INFO]: Wingww has made the advancement [Suit Up]
-[00:13:51] [Server thread/INFO]: Jennicata lost connection: Disconnected
-[00:13:51] [Server thread/INFO]: Jennicata left the game
-[00:17:29] [Server thread/INFO]: lunuku lost connection: Disconnected
-[00:17:29] [Server thread/INFO]: lunuku left the game
-[00:23:10] [User Authenticator #11/INFO]: UUID of player Jennicata is c1a9fa4a-7b85-4c43-b9e9-46b97d1624e7
-[00:23:10] [Server thread/INFO]: Jennicata joined the game
-[00:23:10] [Server thread/INFO]: Jennicata[/76.25.82.51:52359] logged in with entity id 44275 at ([world]200.46604919584954, 62.9375, -330.0866742480912)
-[00:23:30] [Server thread/INFO]: Wingww was shot by Skeleton
-[00:23:33] [Server thread/INFO]: Jennicata was slain by Iron Golem
-[00:24:07] [Server thread/INFO]: Jennicata was slain by Iron Golem
-[00:25:38] [Server thread/INFO]: Wingww was slain by Iron Golem
-[00:29:08] [Server thread/INFO]: Wingww has made the advancement [We Need to Go Deeper]
-[00:32:28] [Server thread/INFO]: Wingww was slain by Piglin
-[00:34:07] [Server thread/INFO]: Wingww has made the advancement [Not Today, Thank You]
-[01:12:15] [Server thread/INFO]: Wingww lost connection: Disconnected
-[01:12:15] [Server thread/INFO]: Wingww left the game
-[01:17:19] [Server thread/INFO]: Jennicata lost connection: Disconnected
-[01:17:19] [Server thread/INFO]: Jennicata left the game
-[02:16:51] [User Authenticator #12/INFO]: UUID of player Jennicata is c1a9fa4a-7b85-4c43-b9e9-46b97d1624e7
-[02:16:51] [Server thread/INFO]: Jennicata joined the game
-[02:16:51] [Server thread/INFO]: Jennicata[/76.25.82.51:53238] logged in with entity id 66854 at ([world]171.21550387747624, 63.9375, -330.9290431368747)
-[02:16:59] [User Authenticator #12/INFO]: UUID of player Wingww is 6a20eabd-e88b-4fb6-a96a-aae335acb874
-[02:16:59] [Server thread/INFO]: Wingww joined the game
-[02:16:59] [Server thread/INFO]: Wingww[/98.196.111.124:57507] logged in with entity id 66870 at ([world]188.4170658500933, 75.0, -304.5393432589307)
-[02:21:27] [Server thread/INFO]: Jennicata lost connection: Disconnected
-[02:21:27] [Server thread/INFO]: Jennicata left the game
-[02:21:29] [User Authenticator #13/INFO]: UUID of player Jennicata is c1a9fa4a-7b85-4c43-b9e9-46b97d1624e7
-[02:21:29] [Server thread/INFO]: Jennicata joined the game
-[02:21:29] [Server thread/INFO]: Jennicata[/76.25.82.51:53253] logged in with entity id 67539 at ([world]165.17603308060146, 64.30420407630938, -306.2373184178578)
-[02:25:00] [Server thread/INFO]: Jennicata lost connection: Disconnected
-[02:25:00] [Server thread/INFO]: Jennicata left the game
-[02:25:05] [Server thread/INFO]: Wingww lost connection: Disconnected
-[02:25:05] [Server thread/INFO]: Wingww left the game
-[04:26:47] [Server thread/INFO]: Villager EntityVillager['im gay'/38480, uuid='2fb5b5fe-05a9-4fa3-a3aa-d53cfbb90533', l='ServerLevel[world]', x=168.38, y=75.00, z=-420.80, cx=10, cz=-27, tl=308149, v=true, d=false] died, message: 'im gay was slain by Zombie'
-[04:55:19] [Server thread/INFO]: Villager EntityVillager['Villager'/73313, uuid='40e21c22-2890-48fa-b0c3-b5a1e781ffc1', l='ServerLevel[world]', x=223.81, y=64.00, z=-318.19, cx=13, cz=-20, tl=128762, v=true, d=false] was struck by lightning EntityLightning['Lightning Bolt'/85570, uuid='e560a781-dd88-4533-affa-1beeb6081f32', l='ServerLevel[world]', x=223.50, y=64.00, z=-318.50, cx=13, cz=-20, tl=1, v=true, d=false].
-[04:57:33] [Server thread/INFO]: Villager EntityVillager['Villager'/242, uuid='611601d2-4d29-4e0a-be6c-d51f7c2449fc', l='ServerLevel[world]', x=183.30, y=63.00, z=-326.21, cx=11, cz=-21, tl=3284562, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[04:57:51] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/77962, uuid='89a207e5-f340-425f-ae08-4306b5a83432', l='ServerLevel[world]', x=198.68, y=66.00, z=-301.49, cx=12, cz=-19, tl=83831, v=true, d=false] was struck by lightning EntityLightning['Lightning Bolt'/85849, uuid='f80eaac7-fcd3-4e62-b3e2-0184d8f101dc', l='ServerLevel[world]', x=195.50, y=69.00, z=-303.50, cx=12, cz=-19, tl=1, v=true, d=false].
-[06:02:25] [Server thread/INFO]: Villager EntityVillager['Villager'/18042, uuid='df7b8590-120d-4dfc-8dec-715e686c0e0e', l='ServerLevel[world]', x=212.19, y=64.00, z=-335.05, cx=13, cz=-21, tl=466245, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[08:44:11] [Server thread/INFO]: Villager EntityVillager['Villager'/103902, uuid='f0248142-49de-40a8-a15a-ff7f7e119374', l='ServerLevel[world]', x=115.70, y=73.50, z=-307.55, cx=7, cz=-20, tl=68022, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[10:10:52] [Server thread/INFO]: AndyNub lost connection: Disconnected
-[10:10:52] [Server thread/INFO]: AndyNub left the game
-[10:10:55] [Server thread/INFO]: Saving the game (this may take a moment!)
-[10:10:55] [Server thread/INFO]: Saved the game
-[10:10:57] [Server thread/INFO]: Stopping the server
-[10:10:57] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
-[10:10:57] [Server thread/INFO]: Saving players
-[10:10:57] [Server thread/INFO]: Saving worlds
-[10:10:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:10:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[10:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:10:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[10:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:10:57] [Server thread/INFO]: Flushing Chunk IO
-[10:10:57] [Server thread/INFO]: Closing Thread Pool
-[10:10:57] [Server thread/INFO]: Closing Server
+[13:27:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[13:27:23] [main/INFO]: Reloading ResourceManager: Default, bukkit, multiplayer sleep v1.0.2.zip, afk display v1.0.1.zip, double shulker shells v1.2.0.zip
+[13:27:24] [Server-Worker-12/INFO]: Loaded 7 recipes
+[13:27:24] [Server-Worker-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[13:27:25] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[13:27:25] [Server thread/INFO]: Loading properties
+[13:27:25] [Server thread/INFO]: This server is running Paper version git-Paper-91 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[13:27:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:27:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:27:25] [Server thread/INFO]: Debug logging is disabled
+[13:27:25] [Server thread/INFO]: Default game type: SURVIVAL
+[13:27:25] [Server thread/INFO]: Generating keypair
+[13:27:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:27:25] [Server thread/INFO]: Using default channel type
+[13:27:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:27:27] [Server thread/INFO]: Preparing level "world"
+[13:27:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:27:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:27:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:27:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:27:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:27:27] [Server thread/INFO]: View Distance: 10
+[13:27:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:27:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:27:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:27:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:27:27] [Server thread/INFO]: Max TNT Explosions: 100
+[13:27:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:27:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:27:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:27:27] [Server thread/INFO]: Mob Spawn Range: 8
+[13:27:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:27:27] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:27:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:27:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:27:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:27:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:27:27] [Server thread/INFO]: View Distance: 10
+[13:27:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:27:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:27:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:27:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:27:27] [Server thread/INFO]: Max TNT Explosions: 100
+[13:27:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:27:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:27:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:27:27] [Server thread/INFO]: Mob Spawn Range: 8
+[13:27:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:27:27] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:27:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:27:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:27:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:27:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:27:27] [Server thread/INFO]: View Distance: 10
+[13:27:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:27:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:27:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:27:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:27:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:27:27] [Server thread/INFO]: Max TNT Explosions: 100
+[13:27:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:27:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:27:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:27:27] [Server thread/INFO]: Mob Spawn Range: 8
+[13:27:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:27:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:27:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[13:27:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:27:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:27:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:27:28] [Server thread/INFO]: Time elapsed: 1080 ms
+[13:27:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:27:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[13:27:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:27:28] [Server thread/INFO]: Time elapsed: 200 ms
+[13:27:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:27:29] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[13:27:29] [Server thread/INFO]: Time elapsed: 138 ms
+[13:27:29] [Server thread/INFO]: Running delayed init tasks
+[13:27:29] [Server thread/INFO]: Done (3.725s)! For help, type "help"
+[13:27:29] [Server thread/INFO]: Timings Reset
+[13:27:38] [User Authenticator #1/INFO]: UUID of player AndyNub is 59a6d893-172a-4cb0-8f8d-0ae35e97d746
+[13:27:38] [Server thread/INFO]: AndyNub joined the game
+[13:27:38] [Server thread/INFO]: AndyNub[/192.168.1.1:58625] logged in with entity id 560 at ([world]249.02123204287236, 84.5, -327.5249891328567)
+[13:27:58] [Server thread/INFO]: Stopping the server
+[13:27:58] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[13:27:58] [Server thread/INFO]: Saving players
+[13:27:58] [Server thread/INFO]: AndyNub lost connection: Server closed
+[13:27:58] [Server thread/INFO]: AndyNub left the game
+[13:27:58] [Server thread/INFO]: Saving worlds
+[13:27:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:27:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:27:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:27:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:27:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:27:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:27:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:27:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:27:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:27:59] [Server thread/INFO]: Flushing Chunk IO
+[13:27:59] [Server thread/INFO]: Closing Thread Pool
+[13:27:59] [Server thread/INFO]: Closing Server
